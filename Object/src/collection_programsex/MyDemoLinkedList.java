@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * This is to demo the use of linkedlist form java.util.LinkedList
  */
 
-public class Program {
+public class MyDemoLinkedList {
 public static void main(String[] args) {
 	//Create linkedlist object
 	LinkedList  LS = new LinkedList();
